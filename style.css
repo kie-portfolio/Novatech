@@ -339,7 +339,7 @@ img {
   z-index: 1;
   bottom: -46%;
   left: 0;
-  background: transparent url(../image/bubble.png) no-repeat center/cover;
+  background: transparent url(image/bubble.png) no-repeat center/cover;
   width: 352px;
   height: 559px;
 }
@@ -348,7 +348,7 @@ img {
     width: 198px;
     height: 320px;
     bottom: -217px;
-    background: transparent url(../image/bubble-sp.png) no-repeat center/cover;
+    background: transparent url(image/bubble-sp.png) no-repeat center/cover;
   }
 }
 
@@ -671,7 +671,7 @@ img {
 
 .service__layout::before {
   top: -110px;
-  background: transparent url(../image/service-bg01.png) no-repeat top center/cover;
+  background: transparent url(image/service-bg01.png) no-repeat top center/cover;
 }
 @media screen and (max-width: 821px) {
   .service__layout::before {
@@ -682,7 +682,7 @@ img {
 .service__layout::after {
   bottom: -110px;
   left: 0;
-  background: transparent url(../image/service-bg02.png) no-repeat bottom center/cover;
+  background: transparent url(image/service-bg02.png) no-repeat bottom center/cover;
 }
 @media screen and (max-width: 821px) {
   .service__layout::after {
@@ -823,7 +823,7 @@ img {
 .about__layout::before {
   content: "";
   position: absolute;
-  background: transparent url(../image/about-img.png) no-repeat center/cover;
+  background: transparent url(image/about-img.png) no-repeat center/cover;
   width: 237px;
   height: 185px;
   left: 4.140625%;
@@ -842,7 +842,7 @@ img {
 .about__layout::after {
   content: "";
   position: absolute;
-  background: transparent url(../image/about-bubble.png) no-repeat center/cover;
+  background: transparent url(image/about-bubble.png) no-repeat center/cover;
   width: 252px;
   height: 475px;
   right: 0;
@@ -853,7 +853,7 @@ img {
     width: 110px;
     height: 185px;
     top: -75px;
-    background: transparent url(../image/about-bubble-sp.png) no-repeat center/cover;
+    background: transparent url(image/about-bubble-sp.png) no-repeat center/cover;
   }
 }
 
@@ -999,11 +999,11 @@ img {
 }
 
 .company__gridCard:first-of-type {
-  background: transparent url(../image/philosophy.png) no-repeat top center/cover;
+  background: transparent url(image/philosophy.png) no-repeat top center/cover;
 }
 
 .company__gridCard:last-of-type {
-  background: transparent url(../image/company.png) no-repeat top center/cover;
+  background: transparent url(image/company.png) no-repeat top center/cover;
 }
 
 .company__gridTitle {
@@ -1059,13 +1059,13 @@ img {
 /*背景*/
 .staff__layout {
   padding: 121px 0 159px 17.34375%;
-  background: transparent url(../image/staff-bg.png) no-repeat center/cover;
+  background: transparent url(image/staff-bg.png) no-repeat center/cover;
   position: relative;
 }
 @media screen and (max-width: 821px) {
   .staff__layout {
     padding: 80px 15px;
-    background: transparent url(../image/staff-bg-sp.png) no-repeat top center/cover;
+    background: transparent url(image/staff-bg-sp.png) no-repeat top center/cover;
   }
 }
 
@@ -1078,13 +1078,13 @@ img {
   z-index: 1;
   top: 80px;
   left: 0;
-  background: transparent url(../image/staff-bubble.png) no-repeat center/cover;
+  background: transparent url(image/staff-bubble.png) no-repeat center/cover;
 }
 @media screen and (max-width: 821px) {
   .staff__layout:before {
     width: 82px;
     height: 142px;
-    background: transparent url(../image/staff-bubble-sp.png) no-repeat center/cover;
+    background: transparent url(image/staff-bubble-sp.png) no-repeat center/cover;
     top: inherit;
     left: inherit;
     bottom: -19px;
@@ -1127,7 +1127,7 @@ img {
   position: absolute;
   width: 347px;
   height: 155px;
-  background: transparent url(../image/staff-art.png) no-repeat center/cover;
+  background: transparent url(image/staff-art.png) no-repeat center/cover;
   left: 0;
   bottom: -90px;
 }
@@ -1198,14 +1198,14 @@ img {
 /*背景*/
 .recruit__layout {
   padding: 120px 0;
-  background: transparent url(../image/recruit-bg.png) no-repeat left bottom/cover;
+  background: transparent url(image/recruit-bg.png) no-repeat left bottom/cover;
   background-position: 10% center;
   position: relative;
 }
 @media screen and (max-width: 821px) {
   .recruit__layout {
     padding: 81px 0;
-    background: transparent url(../image/recruit-bg-sp.png) no-repeat top center/cover;
+    background: transparent url(image/recruit-bg-sp.png) no-repeat top center/cover;
   }
 }
 
@@ -1218,11 +1218,11 @@ img {
   z-index: 1;
   bottom: -40px;
   right: 0;
-  background: transparent url(../image/recruit-bubble.png) no-repeat center/cover;
+  background: transparent url(image/recruit-bubble.png) no-repeat center/cover;
 }
 @media screen and (max-width: 821px) {
   .recruit__layout::before {
-    background: transparent url(../image/recruit-bubble-sp.png) no-repeat center/cover;
+    background: transparent url(image/recruit-bubble-sp.png) no-repeat center/cover;
     width: 76px;
     height: 127px;
     bottom: -7px;
@@ -1274,7 +1274,7 @@ img {
   position: absolute;
   width: 254px;
   height: 149px;
-  background: transparent url(../image/recruit-art.png) no-repeat center/cover;
+  background: transparent url(image/recruit-art.png) no-repeat center/cover;
   left: 0;
   bottom: -67px;
 }
@@ -1339,7 +1339,7 @@ img {
 -------------------------------------------*/
 /*背景画像*/
 .contact__layout {
-  background: transparent url(../image/contact-bg.png) no-repeat center/cover;
+  background: transparent url(image/contact-bg.png) no-repeat center/cover;
   width: 100vw;
   height: 356px;
   position: relative;
@@ -1348,7 +1348,7 @@ img {
 @media screen and (max-width: 821px) {
   .contact__layout {
     height: 272px;
-    background: transparent url(../image/contact-bg-sp.png) no-repeat center/cover;
+    background: transparent url(image/contact-bg-sp.png) no-repeat center/cover;
     margin-bottom: 208px;
   }
 }
@@ -1462,12 +1462,12 @@ footer
 /*ヘッダー背景*/
 .footer__layout {
   width: 100vw;
-  background: transparent url(../image/footer-bg.png) no-repeat top center/cover;
+  background: transparent url(image/footer-bg.png) no-repeat top center/cover;
   padding-bottom: 24px;
 }
 @media screen and (max-width: 821px) {
   .footer__layout {
-    background: transparent url(../image/footer-bg-sp.png) no-repeat top center/cover;
+    background: transparent url(image/footer-bg-sp.png) no-repeat top center/cover;
   }
 }
 
